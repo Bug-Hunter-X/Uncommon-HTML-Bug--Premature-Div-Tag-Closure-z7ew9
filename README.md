@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon HTML bug related to using innerHTML and prematurely closing div tags. The bug causes appended content to become invisible. The solution showcases the correct way to handle innerHTML to avoid the issue. The bug is present in 'bug.html', and the solution is in 'bugSolution.html'.
